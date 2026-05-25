@@ -35,7 +35,7 @@ A simple portpolio showcases practical Application of AI:
     - Social media post 
     - Business  captions 
     - video script 
-    - automation all using AI
+    - Atomation  using AI
     
   ## AI in  Data analysis.
   
@@ -50,7 +50,7 @@ A simple portpolio showcases practical Application of AI:
    
   ## AI in App Development.
   
-   -  Using vibe coding to built a application and systerm with only natural languge
+   -  Using vibe coding to built a application and systerm with only natural languAge
 
    # Tools And Technology
    - Gemini

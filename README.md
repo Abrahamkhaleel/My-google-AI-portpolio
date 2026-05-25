@@ -3,7 +3,7 @@
 
 A simple portpolio showcases practical Application of AI: 
 
-- Brainstoming, 
+- Brainstoming
 - Content creation
 - Reseach 
 - Data analysis 
@@ -13,7 +13,7 @@ A simple portpolio showcases practical Application of AI:
 
    # About Me
    
-  I am a passionate about AI intelligencies, data analysis, solving real world problems,Enviromental health issues and business tasks using modern AI tools
+  I am a passionate about AI intelligencies, data analysis, solving real world problems,Enviromental health issues and business tasks using modern AI tools.
 
   # Currently Exploring:
   
